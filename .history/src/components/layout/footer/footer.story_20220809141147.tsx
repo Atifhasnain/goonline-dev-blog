@@ -6,9 +6,12 @@ const story = storiesOf("Components|Layout", module);
 
 const data: Footer = {
   copyrightOwner: "Geek SG",
-  facebook: "https://goonline.dev/",
+  facebook: "https://geek.sg/",
+  instagram: "https://geek.sg/",
+  twitter: "https://geek.sg/",
   github: "https://geek.sg/",
-  linkedin: "https://goonline.dev/",
+  dribble: "https://geek.sg/",
+  linkedin: "https://geek.sg/",
 };
 
 story.add("Footer", () => <Footer {...data} />);

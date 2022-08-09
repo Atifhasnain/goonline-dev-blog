@@ -1,7 +1,7 @@
-const siteName = "GoOnline Blog";
-const siteShortName = "GoOnline Blog";
-const siteUrl = "https://blog.goonline.dev/";
-const siteDescription = "GoOnline blog template";
+const siteName = "Sample Blog";
+const siteShortName = "Sample Blog";
+const siteUrl = "https://geek.sg/";
+const siteDescription = "Sample blog template";
 const siteKeyword = "";
 const siteLogo = "logo.png";
 const siteLogoFolder = `static/${siteLogo}`;
